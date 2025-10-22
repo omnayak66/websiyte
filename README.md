@@ -697,5 +697,144 @@ centralised digital platform for comprehensive student activity records for HEIs
 
 </html>
 // ...existing code...
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Student Research & Development</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f4f7fa;
+            color: #333;
+            margin: 0;
+            line-height: 1.6;
+        }
+        
+        header {
+            background-color: #004166;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        
+        header h1 {
+            margin: 0;
+            font-weight: 700;
+        }
+        
+        .container {
+            width: 90%;
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 0 15px;
+        }
+        
+        section {
+            margin-bottom: 40px;
+        }
+        
+        h2 {
+            border-bottom: 3px solid #004166;
+            padding-bottom: 8px;
+            margin-bottom: 20px;
+            color: #004166;
+        }
+        
+        .project,
+        .publication {
+            background: #e3f0ff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .project h3,
+        .publication h3 {
+            margin-top: 0;
+        }
+        
+        .contact-info {
+            background: #d4e5fb;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        footer {
+            text-align: center;
+            padding: 15px 0;
+            background-color: #004166;
+            color: #fff;
+            font-size: 0.9rem;
+        }
+        
+        a {
+            color: #003366;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Student Research & Development</h1>
+    </header>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I am a dedicated student researcher passionate about developing innovative solutions in computer science and engineering. This page showcases my ongoing projects, published papers, and contact info for collaboration or inquiries.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Research Projects</h2>
+            <div class="project">
+                <h3>AI-based Image Recognition System</h3>
+                <p>Developing an efficient AI model to enhance real-time image recognition accuracy in low-light conditions using convolutional neural networks.</p>
+            </div>
+            <div class="project">
+                <h3>IoT Smart Home Automation</h3>
+                <p>Building a secure and cost-effective IoT system for home automation integrating sensor data with cloud-based control.</p>
+            </div>
+        </section>
+
+        <section id="publications">
+            <h2>Publications</h2>
+            <div class="publication">
+                <h3>Journal of Computer Science, 2025</h3>
+                <p>"Enhanced Deep Learning Techniques for Object Detection"<br /><a href="#" target="_blank">Read Paper</a></p>
+            </div>
+            <div class="publication">
+                <h3>International Conference on IoT, 2024</h3>
+                <p>"Secure Data Transmission in Smart Home Networks"<br /><a href="#" target="_blank">Read Paper</a></p>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <div class="contact-info">
+                <p>Email: student@example.com</p>
+                <p>Phone: +1-234-567-8901</p>
+                <p>LinkedIn: <a href="https://linkedin.com/in/student" target="_blank">linkedin.com/in/student</a></p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        &copy; 2025 Student Research & Development
+    </footer>
+
+</body>
+
+</html>
+
 
 
