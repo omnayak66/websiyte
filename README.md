@@ -389,3 +389,77 @@ centralised digital platform for comprehensive student activity records for HEIs
 </body>
 
 </html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sample HTML Page with CSS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        
+        header {
+            background-color: #007acc;
+            color: white;
+            text-align: center;
+            padding: 1.5rem 0;
+            font-size: 2rem;
+            font-weight: bold;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+            margin-bottom: 30px;
+        }
+        
+        .content-box {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 122, 204, 0.3);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        h2 {
+            color: #007acc;
+            margin-top: 0;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        
+        p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+        
+        a {
+            color: #005f99;
+            text-decoration: none;
+            border-bottom: 1px dashed #005f99;
+        }
+        
+        a:hover {
+            color: #003f66;
+            border-bottom: 1px solid #003f66;
+        }
+    </style>
+</head>
+
+<body>
+    <header>Welcome to My Sample Webpage</header>
+    <div class="content-box">
+        <h2>About This Page</h2>
+        <p>This is an example HTML page that includes internal CSS styling within a <code>&lt;style&gt;</code> tag in the document head.</p>
+        <p>It demonstrates basic styling for page elements: background, text colors, boxes, and hover effects on links.</p>
+        <p>To learn more about HTML and CSS, visit <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">W3Schools</a>.</p>
+    </div>
+</body>
+
+</html>
