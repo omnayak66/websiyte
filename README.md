@@ -285,3 +285,107 @@ centralised digital platform for comprehensive student activity records for HEIs
 </body>
 
 </html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Odisha Scholarship Criteria & Details 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #c8d7dc, #8ab6c1);
+            margin: 0;
+            padding: 20px;
+            color: #023047;
+        }
+        
+        header {
+            text-align: center;
+            padding: 1rem;
+            background: #056676;
+            color: white;
+            font-size: 2rem;
+            font-weight: bold;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #023047aa;
+            margin-bottom: 1rem;
+        }
+        
+        .content {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #e0f2f1;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 0 15px #004d40aa;
+        }
+        
+        h2 {
+            color: #00796b;
+            border-bottom: 2px solid #004d40;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        p,
+        ul {
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+        
+        ul {
+            margin-left: 1.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <header>Odisha Scholarship Eligibility & Criteria 2025</header>
+    <div class="content">
+        <h2>General Eligibility Requirements</h2>
+        <ul>
+            <li>Applicant must be a permanent resident of Odisha.</li>
+            <li>Students from all categories (SC/ST/OBC/SEBC/EBC/General) can apply based on specified scholarships.</li>
+            <li>Family income must generally not exceed ₹2.5 Lakh annually for most scholarships.</li>
+            <li>Applicants must be enrolled in recognized government/state universities or aided colleges.</li>
+            <li>Distance learning, open universities, and correspondence courses students are usually not eligible.</li>
+            <li>For merit-based scholarships, minimum marks criteria (often 50%-60%) in previous exams apply.</li>
+        </ul>
+
+        <h2>Required Documents</h2>
+        <ul>
+            <li>Aadhar Card</li>
+            <li>Domicile Certificate</li>
+            <li>Recent passport-size photograph</li>
+            <li>Previous year's mark sheet or result</li>
+            <li>College/Institution ID card</li>
+            <li>Admission receipt or fee payment proof</li>
+            <li>Bank passbook or canceled cheque copy</li>
+            <li>Income Certificate</li>
+            <li>Special category certificates if applicable (e.g., Divyang certificate)</li>
+        </ul>
+
+        <h2>Important Notes</h2>
+        <p>
+            Some scholarships exclude applicants whose parents are government employees or current income taxpayers. Students receiving other government scholarships for the same course might not be eligible. Always verify the eligibility and documents with the official
+            scholarship portal or notification.
+        </p>
+
+        <h2>Application Process</h2>
+        <p>
+            Applications are generally submitted online at <a href="https://scholarship.odisha.gov.in" target="_blank" rel="noopener">scholarship.odisha.gov.in</a>. Registration, form filling, and submission require valid personal and academic details.
+            OTP verification and login credentials are mandatory for application tracking.
+        </p>
+
+        <h2>Useful Links</h2>
+        <ul>
+            <li><a href="https://www.buddy4study.com/article/odisha-scholarship" target="_blank" rel="noopener">Odisha Scholarship Portal Guide</a></li>
+            <li><a href="https://mvsg.org/odisha-state-scholarship-2025-registration-apply-online-form-eligibility-last-date/" target="_blank" rel="noopener">Registration & Eligibility Details</a></li>
+            <li><a href="https://theglobalscholarship.org/scholarships/odisha-pre-and-post-matric-scholarship-2025" target="_blank" rel="noopener">Pre & Post Matric Scholarship</a></li>
+        </ul>
+    </div>
+</body>
+
+</html>
